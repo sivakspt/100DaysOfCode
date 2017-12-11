@@ -6,3 +6,4 @@
 | 002 | 08-12-17 | Exponential Moving Average |
 | 003 | 09-12-17 | Moving Average Convergence Divergence |
 | 004 | 10-12-17 | Bollinger Bands |
+| 005 | 11-12-17 | Moving Average Envelop |
