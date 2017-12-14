@@ -9,3 +9,4 @@
 | 005 | 11-12-17 | Moving Average Envelop |
 | 006 | 12-12-17 | Average True Range |
 | 007 | 13-12-17 | Keltner Channel |
+| 008 | 14-12-17 | Relative Strength Index |
