@@ -10,3 +10,4 @@
 | 006 | 12-12-17 | Average True Range |
 | 007 | 13-12-17 | Keltner Channel |
 | 008 | 14-12-17 | Relative Strength Index |
+| 009 | 15-12-17 | Awesome Oscillator |
