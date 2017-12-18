@@ -13,3 +13,4 @@
 | 009 | 15-12-17 | Awesome Oscillator |
 | 010 | 16-12-17 | Chaikin Volatility |
 | 011 | 17-12-17 | Money Flow Index |
+| 012 | 18-12-17 | Commodity Channel Index |
