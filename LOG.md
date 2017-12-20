@@ -15,3 +15,4 @@
 | 011 | 17-12-17 | Money Flow Index |
 | 012 | 18-12-17 | Commodity Channel Index |
 | 013 | 19-12-17 | Alligator |
+| 014 | 20-12-17 | Swing Index |
