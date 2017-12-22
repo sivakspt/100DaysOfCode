@@ -17,3 +17,4 @@
 | 013 | 19-12-17 | Alligator |
 | 014 | 20-12-17 | Swing Index |
 | 015 | 21-12-17 | Accumulative Swing Index |
+| 016 | 22-12-17 | Aroon Indicator |
